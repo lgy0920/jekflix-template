@@ -1,14 +1,14 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
+title: Get over it!
+email: lgy605555@gmail.com
+description: Developer.
 baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+url: "https://lgy0920.githuv.io" # the base hostname & protocol for your site
+google_analytics: "UA-122078780-1"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: Gil-Yong LEE
+user_description: S/W Developer.
 disqus_username: disqus_username
 
 # Social Media
