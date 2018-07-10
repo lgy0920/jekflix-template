@@ -2,7 +2,7 @@
 title: Get over it!
 email: lgy605555@gmail.com
 description: Developer.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lgy0920.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-122078780-1"
 
