@@ -5,7 +5,7 @@ description: 나의 소개
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="https://res.cloudinary.com/jastech/image/upload/c_fill,h_200,w_200/Blog/myface.jpg.jpg" alt="your name">
+<img itemprop="image" class="img-rounded" src="https://res.cloudinary.com/jastech/image/upload/c_fill,h_200,w_200/v1541724964/Blog/myface.jpg.jpg" alt="your name">
 ### About
 
 ## 이길용 (Gil-Yong LEE)
